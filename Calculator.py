@@ -2,9 +2,6 @@
 
 import os
 
-#r1=float(input("Veuillez entrer le premier réel : "))
-#r2=float(input("Veuillez entrer le deuxième réel : "))
-
 def resultat(r1,ope,r2):
 	r1 = input("Veuillez entrer le premier réel : ")
 	ope = input("Choisissez une opération : ")
